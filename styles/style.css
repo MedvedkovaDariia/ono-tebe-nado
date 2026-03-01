@@ -1,4 +1,4 @@
-body{
+body {
   font-family: 'Raleway','Arial', sans-serif; 
 }
 
@@ -44,7 +44,7 @@ body{
   text-decoration: none;
 }
 
-.header_links-list-item_no_bullit  {
+.header_links-list-item_no_bullit {
   list-style: none;
 }
 
@@ -287,7 +287,6 @@ body{
   height: 240px;
   background-color: black;
   clip-path: circle(50%);
-  margin-top: auto;
   margin-top: 33px;
   margin-left: 47px;
 }
@@ -335,7 +334,7 @@ body{
   align-items: top;
 }
 
-.footer__address{
+.footer__address {
   width: 264.57px;
   height: 98;
   line-height: 24.3px;
@@ -370,7 +369,7 @@ body{
  text-decoration: underline;
 }
 
-.footer__social-list{
+.footer__social-list {
   width: 240px;
   height: 98px;
   display: flex;
