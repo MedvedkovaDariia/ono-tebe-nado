@@ -12,7 +12,7 @@ body {
   width: 1100px;
   height: 293px;
   display: grid;
-  grid-template-columns: 1fr min-content 1fr; 
+  grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   padding: 0 50px;
   margin: 0;
@@ -31,7 +31,7 @@ body {
 }
 
 .header__links-list-item {
-  line-height: 100%; 
+  line-height: 100%;
   letter-spacing: 1%;
   font-size: 18px;
 }
@@ -60,7 +60,7 @@ body {
 
 .address {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
 }
 
 .header__address {
@@ -87,7 +87,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  display: grid; 
+  display: grid;
   position: relative;
   margin-top: 0;
   margin-bottom: 180px;
@@ -96,7 +96,7 @@ body {
 }
 
 .cover_title {
-  width: 1000px; 
+  width: 1000px;
   height: 385px;
   text-transform: uppercase;
   color:#fff;
@@ -104,8 +104,8 @@ body {
   font-style: bold;
   font-size: 100px;
   line-height: 114.99px;
-  letter-spacing: 30%; 
-  margin: 165px 50px auto 50px; 
+  letter-spacing: 30%;
+  margin: 165px 50px auto 50px;
   z-index: 1;
 }
 
@@ -160,7 +160,7 @@ body {
   display: inline-block;
   background-color: transparent;
   color:#fff;
-  border: 1px solid #fff; 
+  border: 1px solid #fff;
   font-weight: 500;
   font-style: normal;
   font-size: 22px;
@@ -276,7 +276,7 @@ body {
 
 .about {
   width: 1052px;
-  height: 595px; 
+  height: 595px;
   display:grid;
   grid-template-columns: 334px auto;
   margin-left: 24px;
@@ -298,7 +298,7 @@ body {
 }
 
 .about_info {
-  width: 693px; 
+  width: 693px;
   height:449px;
   margin-top: 134px;
   padding: 0;
@@ -313,7 +313,7 @@ body {
   margin-left: 25px;
 }
 
-.about__text { 
+.about__text {
   height: 312px;
   width: 693px;
   font-weight: 400;
