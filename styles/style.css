@@ -288,7 +288,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  
 }
 
 .about__logo-image {
@@ -360,7 +359,7 @@
  text-decoration: underline;
 }
 
-.footer__social-list{
+.footer__social-list {
   display: flex;
   flex-direction: row;
   list-style: none;
